@@ -1,0 +1,1 @@
+# Poorman-s-automated-translation-with-R-and-Google-Sheets-using-googlesheets4-
